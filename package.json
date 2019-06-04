@@ -1,0 +1,26 @@
+{
+  "name": "redux-tutorial",
+  "version": "1.0.0",
+  "description": "Follow basic and advanced tutorials on redux.js.org.  See README.md for details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/redux-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Dave Kanter",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/raydot/redux-tutorial/issues"
+  },
+  "homepage": "https://github.com/raydot/redux-tutorial#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
